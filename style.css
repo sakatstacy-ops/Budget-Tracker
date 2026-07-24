@@ -1,0 +1,60 @@
+/* ==========================
+   Element Selector
+========================== */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+/* ==========================
+   ID Selector
+========================== */
+
+#main-heading {
+    color: darkblue;
+    text-align: center;
+}
+
+/* ==========================
+   Class Selector
+========================== */
+
+.subtitle {
+    text-align: center;
+    color: gray;
+    margin-bottom: 30px;
+}
+
+/* ==========================
+   Add Expense Section
+========================== */
+
+.expense-section {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 25px;
+}
+
+/* ==========================
+   Input Fields
+========================== */
+
+input {
+    display: block;
+    width: 95%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+/* ==========================
+   Expenses Section
+========================== */
+
+.expenses {
+    background-color: #dff6ff;
+    padding: 20px;
+    border-radius: 8px;
+}
